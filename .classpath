@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-bak"/>
+	<classpathentry kind="lib" path="connectlib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="connectlib/jboss-marshalling-1.3.0.CR9.jar"/>
+	<classpathentry kind="lib" path="connectlib/jboss-marshalling-serial-1.3.0.CR9.jar"/>
+	<classpathentry kind="lib" path="connectlib/jsch-0.1.46.jar"/>
+	<classpathentry kind="lib" path="connectlib/netty-all-5.0.0.Alpha2-sources.jar"/>
+	<classpathentry kind="lib" path="connectlib/netty-all-5.0.0.Alpha2.jar"/>
+	<classpathentry kind="lib" path="findDevice2.jar"/>
+	<classpathentry kind="lib" path="findDevice3.jar"/>
+	<classpathentry kind="lib" path="findDeviceByheart.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
